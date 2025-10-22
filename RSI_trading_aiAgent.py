@@ -86,7 +86,7 @@ def open_position(side):
         "productType": "USDT-FUTURES",
         "marginMode": "isolated",
         "marginCoin": "USDT",
-        "size": "0.05",
+        "size": "0.01",
         "side": side,
         "tradeSide": "open",
         "orderType": "market",
